@@ -1,0 +1,11 @@
+.card-text {
+  display: none;
+}
+
+.card-subtitle {
+  margin-bottom: 10px;
+}
+
+.card-subtitle:hover {
+  color: gray;
+}
